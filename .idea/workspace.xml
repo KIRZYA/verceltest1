@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78e515ae-3454-429d-9fe7-3df1b969682b" name="Changes" comment="yes">
+      <change afterPath="$PROJECT_DIR$/test1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/bootstrap/providers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/database/migrations/0001_01_01_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/database/migrations/0001_01_01_000001_create_cache_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/database/migrations/0001_01_01_000002_create_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/app/private/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2pesZfKf08j9YxOACsogQurK513" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/vercel",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78e515ae-3454-429d-9fe7-3df1b969682b" name="Changes" comment="" />
+      <created>1733137932657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733137932657</updated>
+      <workItem from="1733137933772" duration="817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+</project>
